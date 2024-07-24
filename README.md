@@ -1,2 +1,2 @@
 # Personal-Portfolio
-This mu web-based personal portfolio
+This my web-based personal portfolio
